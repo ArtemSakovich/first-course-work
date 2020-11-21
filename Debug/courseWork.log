@@ -1,0 +1,11 @@
+﻿  courseWork.cpp
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(181,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(181,69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(211,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(211,68): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(241,29): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Artem\source\repos\courseWork\courseWork.cpp(241,62): warning C4018: '<': signed/unsigned mismatch
+  courseWork.vcxproj -> C:\Users\Artem\source\repos\courseWork\Debug\courseWork.exe
